@@ -6,4 +6,4 @@ Steps followed
 3. Handeled the null alues using median/mode Imputation.
 4. Encoded Categorial data using labelEncoder.
 5. Checked the data for outliers using boxplots.
-6. The daa is processed. 
+6. The data is processed. 
